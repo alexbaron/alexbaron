@@ -130,7 +130,9 @@ jobs:
             
             if (readme.includes(startMarker) && readme.includes(endMarker)) {
               // Replace existing section
-              const regex = new RegExp(`${startMarker}[\\s\\S]*${endMarker}`, 'g');
+              const escapedStart = startMarker.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+              const escapedEnd = endMarker.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+              const regex = new RegExp(`${escapedStart}[\\s\\S]*${escapedEnd}`, 'g');
               readme = readme.replace(regex, languagesSection);
             } else {
               // Append to the end
