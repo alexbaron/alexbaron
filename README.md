@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://skillicons.dev/icons?i=drupal,symfony,js,ts,php,nodejs,react,nextjs,css,docker,git,github&perline=7" />
+<img src="https://skillicons.dev/icons?i=drupal,symfony,js,ts,php,nodejs,react,nextjs,css,docker,git,github,jenkins&perline=7" />
 
 
 <!--
