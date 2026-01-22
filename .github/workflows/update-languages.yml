@@ -37,7 +37,7 @@ jobs:
               const options = {
                 headers: {
                   'User-Agent': 'GitHub-Profile-Updater',
-                  'Authorization': `token ${token}`
+                  'Authorization': `Bearer ${token}`
                 }
               };
               https.get(url, options, (res) => {
@@ -55,14 +55,23 @@ jobs:
           }
           
           async function main() {
-            // Fetch all repositories for the user
-            const repos = await httpsGet(`https://api.github.com/users/${username}/repos?per_page=100`);
-            console.log(`Found ${repos.length} repositories`);
+            // Fetch all repositories for the user with pagination
+            let page = 1;
+            let allRepos = [];
+            let repos;
+            
+            do {
+              repos = await httpsGet(`https://api.github.com/users/${username}/repos?per_page=100&page=${page}`);
+              allRepos = allRepos.concat(repos);
+              page++;
+            } while (repos.length === 100);
+            
+            console.log(`Found ${allRepos.length} repositories`);
             
             // Aggregate languages across all repositories
             const languageStats = {};
             
-            for (const repo of repos) {
+            for (const repo of allRepos) {
               if (repo.fork) continue; // Skip forked repositories
               
               try {
@@ -144,4 +153,14 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update README with language statistics" && git push)
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "Update README with language statistics"
+          if git push; then
+            echo "Successfully pushed changes"
+          else
+            echo "Failed to push changes"
+            exit 1
+          fi
