@@ -4,6 +4,8 @@
 
 <img src="https://skillicons.dev/icons?i=drupal,symfony,js,ts,php,nodejs,react,nextjs,css,docker,git,github,jenkins&perline=7" />
 
+<a href="https://app.daily.dev/alexbaron77"><img src="https://api.daily.dev/devcards/v2/aGPKUXzFCH1qwqndwBmOj.png?r=lrd" width="356" alt="alexbaron's Dev Card"/></a>
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 
 <!--
