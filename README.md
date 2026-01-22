@@ -1,7 +1,10 @@
 ## Hi there 👋
 
+- www.linkedin.com/in/alexandre-baron-1977-12-09 
+
 <img src="https://skillicons.dev/icons?i=drupal,symfony,js,ts,php,nodejs,react,nextjs,css,docker,git,github,jenkins&perline=7" />
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 
 <!--
 **alexbaron/alexbaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
