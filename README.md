@@ -2,8 +2,8 @@
 
 - www.linkedin.com/in/alexandre-baron-1977-12-09
 - https://www.drupal.org/u/alex-baron
-
-<img src="https://skillicons.dev/icons?i=drupal,symfony,js,ts,php,nodejs,react,nextjs,css,docker,git,github,jenkins&perline=7" />
+<img src="https://skills.syvixor.com/api/icons?i=drupal" />
+<img src="https://skillicons.dev/icons?i=symfony,js,ts,php,nodejs,react,nextjs,css,docker,git,github,jenkins&perline=7" />
 
 <a href="https://app.daily.dev/alexbaron77"><img src="https://api.daily.dev/devcards/v2/aGPKUXzFCH1qwqndwBmOj.png?r=lrd" width="356" alt="alexbaron's Dev Card"/></a>
 
