@@ -9,7 +9,7 @@
 </a>
 
 
-<img src="https://skills.syvixor.com/api/icons?perline=7&i=drupal,symfony,js,ts,php,nodejs,react,nextjs,css,sass,docker,ddev,lando,git,github,jenkins,bitbucket,jira" />
+<img src="https://skills.syvixor.com/api/icons?perline=7&i=symfony,js,ts,php,nodejs,react,nextjs,css,sass,docker,ddev,lando,git,github,jenkins,bitbucket,jira" />
 
 <a href="https://app.daily.dev/alexbaron77"><img src="https://api.daily.dev/devcards/v2/aGPKUXzFCH1qwqndwBmOj.png?r=lrd" width="356" alt="alexbaron's Dev Card"/></a>
 
