@@ -4,6 +4,8 @@
   <img src="https://skills.syvixor.com/api/icons?perline=1&i=linkedin">
 </a>
 
+<hr/>
+
 <a href="https://www.drupal.org/u/alex-baron"> 
   <img src="https://skills.syvixor.com/api/icons?perline=1&i=drupal">
 </a>
