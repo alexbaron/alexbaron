@@ -1,7 +1,12 @@
 ## Hi there 👋
 
-- www.linkedin.com/in/alexandre-baron-1977-12-09
-- https://www.drupal.org/u/alex-baron
+* <a href="www.linkedin.com/in/alexandre-baron-1977-12-09"> 
+  <img src="https://skills.syvixor.com/api/icons?perline=1&i=linkedin">
+</a>
+* <a href="https://www.drupal.org/u/alex-baron"> 
+  <img src="https://skills.syvixor.com/api/icons?perline=1&i=drupal">
+</a>
+
 
 <img src="https://skills.syvixor.com/api/icons?perline=7&i=drupal,symfony,js,ts,php,nodejs,react,nextjs,css,sass,docker,ddev,lando,git,github,jenkins,bitbucket,jira" />
 
