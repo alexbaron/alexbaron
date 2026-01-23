@@ -4,12 +4,11 @@
   <img src="https://skills.syvixor.com/api/icons?perline=1&i=linkedin">
 </a>
 
-<hr/>
-
 <a href="https://www.drupal.org/u/alex-baron"> 
   <img src="https://skills.syvixor.com/api/icons?perline=1&i=drupal">
 </a>
 
+<hr/>
 
 <img src="https://skills.syvixor.com/api/icons?perline=7&i=symfony,js,ts,php,nodejs,react,nextjs,css,sass,docker,ddev,lando,git,github,jenkins,bitbucket,jira" />
 
