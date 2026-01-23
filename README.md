@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-* <a href="www.linkedin.com/in/alexandre-baron-1977-12-09"> 
+<a href="www.linkedin.com/in/alexandre-baron-1977-12-09"> 
   <img src="https://skills.syvixor.com/api/icons?perline=1&i=linkedin">
 </a>
-* <a href="https://www.drupal.org/u/alex-baron"> 
+
+<a href="https://www.drupal.org/u/alex-baron"> 
   <img src="https://skills.syvixor.com/api/icons?perline=1&i=drupal">
 </a>
 
