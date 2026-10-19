@@ -53,8 +53,23 @@ I enjoy building applications, exploring new tools, and evolving my homelab to p
 </table>
 
 <hr/>
-[![Alex Baron Stats](https://github-stats-extended.vercel.app/api?username=alexbaron)](https://github.com/stats-organization/github-stats-extended)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=alexbaron&layout=compact&langs_count=6&display_format=percent&theme=transparent)](https://wakatime.com/@alan)
+
+### 📊 GitHub Stats
+
+<table>
+<tr>
+  <td valign="top" width="50%">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=alexbaron&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Alex Baron's GitHub stats" width="100%" />
+    </a>
+  </td>
+  <td valign="top" width="50%">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexbaron&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Top languages" width="100%" />
+    </a>
+  </td>
+</tr>
+</table>
 
 <!--
 **alexbaron/alexbaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
