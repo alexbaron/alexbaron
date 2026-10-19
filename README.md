@@ -2,6 +2,8 @@
 
 # Alexandre Baron
 
+<img width="2684" height="973" alt="banner" src="https://github.com/user-attachments/assets/7b2959c3-8790-4a3b-afee-202558975f1f" />
+
 *Developer passionate about web technologies, open source, homelabbing, DevOps, and AI.*
 
 <table>
