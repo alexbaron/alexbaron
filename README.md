@@ -29,7 +29,10 @@ I enjoy building applications, exploring new tools, and evolving my homelab to p
 </tr>
 </table>
 
-<img src="https://skills.syvixor.com/api/icons?perline=7&i=symfony,js,ts,php,nodejs,react,nextjs,css,sass,docker,ddev,lando,git,github,jenkins,bitbucket,jira,graphql" />
+<table>
+<tr>
+  <td>
+    <img src="https://skills.syvixor.com/api/icons?perline=7&i=symfony,js,ts,php,nodejs,react,nextjs,css,sass,docker,ddev,lando,git,github,jenkins,bitbucket,jira,graphql" />
 
 <a href="www.linkedin.com/in/alexandre-baron-1977-12-09"> 
   <img src="https://skills.syvixor.com/api/icons?perline=1&i=linkedin">
@@ -39,13 +42,18 @@ I enjoy building applications, exploring new tools, and evolving my homelab to p
   <img src="https://skills.syvixor.com/api/icons?perline=1&i=drupal">
 </a>
 
-<hr/>
-
-
-
-<a href="https://app.daily.dev/alexbaron77"><img src="https://api.daily.dev/devcards/v2/aGPKUXzFCH1qwqndwBmOj.png?r=lrd" width="356" alt="alexbaron's Dev Card"/></a>
+  </td>
+  <td>
+    <a href="https://app.daily.dev/alexbaron77"><img src="https://api.daily.dev/devcards/v2/aGPKUXzFCH1qwqndwBmOj.png?r=lrd" width="356" alt="alexbaron's Dev Card"/></a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+  </td>
+</tr>
+</table>
+
+
+<hr/>
+
 
 <!--
 **alexbaron/alexbaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
