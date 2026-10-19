@@ -4,7 +4,7 @@
 
 <img width="2684" height="973" alt="banner" src="https://github.com/user-attachments/assets/7b2959c3-8790-4a3b-afee-202558975f1f" />
 
-*Developer passionate about web technologies, open source, homelabbing, DevOps, and AI.*
+_Developer passionate about web technologies, open source, homelabbing, DevOps, and AI._
 
 <table>
 <tr>
@@ -31,29 +31,30 @@ I enjoy building applications, exploring new tools, and evolving my homelab to p
 
 <table>
 <tr>
-  <td>
-    <img src="https://skills.syvixor.com/api/icons?perline=7&i=symfony,js,ts,php,nodejs,react,nextjs,css,sass,docker,ddev,lando,git,github,jenkins,bitbucket,jira,graphql" />
+  <td valign="top" width="50%">
+    <img src="https://skills.syvixor.com/api/icons?perline=7&i=symfony,js,ts,php,nodejs,react,nextjs,python,css,sass,docker,ddev,lando,git,github,jenkins,bitbucket,jira,graphql" alt="Skills" />
 
-<a href="www.linkedin.com/in/alexandre-baron-1977-12-09"> 
-  <img src="https://skills.syvixor.com/api/icons?perline=1&i=linkedin">
+<a href="www.linkedin.com/in/alexandre-baron-1977-12-09">
+  <img src="https://skills.syvixor.com/api/icons?perline=1&i=linkedin" alt="LinkedIn" />
 </a>
 
-<a href="https://www.drupal.org/u/alex-baron"> 
+<a href="https://www.drupal.org/u/alex-baron">
   <img src="https://skills.syvixor.com/api/icons?perline=1&i=drupal">
 </a>
 
   </td>
-  <td>
+  <td valign="top" width="50%">
     <a href="https://app.daily.dev/alexbaron77"><img src="https://api.daily.dev/devcards/v2/aGPKUXzFCH1qwqndwBmOj.png?r=lrd" width="356" alt="alexbaron's Dev Card"/></a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+
   </td>
 </tr>
 </table>
 
-
 <hr/>
-
+[![Alex Baron Stats](https://github-stats-extended.vercel.app/api?username=alexbaron)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=alexbaron&layout=compact&langs_count=6&display_format=percent&theme=transparent)](https://wakatime.com/@alan)
 
 <!--
 **alexbaron/alexbaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
