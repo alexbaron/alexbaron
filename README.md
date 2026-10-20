@@ -85,3 +85,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- LANGUAGES-START -->
+## 📊 Languages Used Across My Repositories
+
+_Language statistics will be automatically updated by GitHub Actions_
+
+<!-- LANGUAGES-END -->
